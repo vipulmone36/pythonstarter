@@ -1,2 +1,3 @@
 a = 1
-print("HelloWorld"+str(a))
+for i in range(5):
+    print("HelloWorld"+str(a))
