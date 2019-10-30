@@ -1,3 +1,2 @@
 a = 1
-print("HelloWorld")
-print(a)
+print("HelloWorld"+str(a))
